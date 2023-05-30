@@ -1,0 +1,18 @@
+[
+    {
+        "name": "TransparentUpgradeableProxy",
+        "id": "0.0.13710882",
+        "address": "0x0000000000000000000000000000000000d13622",
+        "timestamp": "2023-05-29T13:27:24.282Z",
+        "hash": ""
+    },
+    {
+        "name": "Bank",
+        "id": "0.0.13710874",
+        "address": "0x0000000000000000000000000000000000d1361a",
+        "timestamp": "2023-05-29T13:34:37.318Z",
+        "hash": "",
+        "transparentProxyAddress": "0x0000000000000000000000000000000000d13622",
+        "transparentProxyId": "0.0.13710882"
+    }
+]
